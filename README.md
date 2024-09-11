@@ -47,10 +47,13 @@ It is used to execute different codes depending on certain conditions. The most 
 
 if condition:
 *code to be executed if the condition is true*
+
 else:
  *code to be executed if the condition is false*
 
-The ‘condition’ in the if statement is a Boolean expression that evaluates to either True or False. If the condition is True, the code in the if block will be executed, otherwise, the code in the else block will be executed.
+The ‘condition’ in the if statement is a Boolean expression that evaluates to either True or False.
+
+If the condition is True, the code in the if block will be executed, otherwise, the code in the else block will be executed.
 
 For example:
 
@@ -75,7 +78,7 @@ In Python, a function is a block of code that can be reused throughout your prog
 The basic syntax of a function is as follows:
 
 def function_name(parameters):
-# code to be executed
+#code to be executed
 
 Here, function_name is the name of the function, and ‘parameters’ are the input values that are passed to the function. The code inside the function is executed when the function is called.
 
