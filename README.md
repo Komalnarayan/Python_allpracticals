@@ -90,7 +90,7 @@ greet(“John”)
 
 In this example, the function ‘greet’ takes one parameter ‘name’, and when called it prints the string “Hello, ” followed by the value of the ‘name’ parameter.
 
-#• Libraries
+# • Libraries
 A library is a collection of pre-written code that you can use to perform various tasks. Libraries provide a way to add functionality to your program without having to write the code yourself.
 
 There are many libraries available for Python, some of the most popular ones include:
