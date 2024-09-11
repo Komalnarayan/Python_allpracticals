@@ -46,9 +46,9 @@ These operators are used to combine multiple conditions. Examples include and (a
 It is used to execute different codes depending on certain conditions. The most common type of conditional statement is the if-else statement. The basic syntax of an if-else statement is as follows:
 
 if condition:
-# code to be executed if the condition is true
+*code to be executed if the condition is true*
 else:
-# code to be executed if the condition is false
+ *code to be executed if the condition is false*
 
 The ‘condition’ in the if statement is a Boolean expression that evaluates to either True or False. If the condition is True, the code in the if block will be executed, otherwise, the code in the else block will be executed.
 
