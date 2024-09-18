@@ -107,5 +107,65 @@ There are many libraries available for Python, some of the most popular ones inc
    
 6. OpenCV: A library for computer vision in Python. It provides tools for image and video processing, feature detection and extraction, and more.
 
+# DSA (DATA STRUCTURE AND ALGORITHMS)
+
+Data structures are fundamental concepts of computer science, which helps in writing efficient programs in any language.
+
+The various data structures in computer science are divided broadly into two categories:-
+
+# Linear and non linear
+
+# • Linear Data Structures:-
+These are the data structures which store the data elements in a sequential manner.
+
+# 1.Array:- 
+It is a sequential arrangement of data elements paired with the index of the 
+data element.
+
+# 2.Linked List:-
+Each data element contains a link to another element, along with the 
+data present in it.
+
+# 3.Stack: 
+It is a data structure, which follows only to specific order of operation. LIFO 
+(last in First Out) or FILO(First in Last Out).
+# 4. Queue:
+It is similar to Stack, but the order of operation is only FIFO (First In First 
+Out).
+# 5.Matrix:
+It is two dimensional data structure in which, the data element is referred 
+by a pair of indices.
+
+
+# • Non-Liner Data Structures
+
+These are the data structures in which, there is no sequential linking of data elements. 
+Any pair or group of data elements can be linked to each other and can be accessed 
+without a strict sequence.
+
+# 1. Binary Tree: 
+It is a data structure, where each data element can be connected to 
+maximum two other data elements and it starts with a root node.
+# 2.Heap: 
+It is a special case of Tree data structure, where the data in the parent node!is either strictly greater than/ equal to the child nodes or strictly less than its child nodes.
+# 3. Hash Table: 
+It is a data structure, which is made of arrays associated with each other using a hash function. It retrieves values using keys rather than, index from 
+a data element.
+
+# 4. Graph: 
+It is an arrangement of vertices and nodes, where some of the nodes are connected to each other through links.
+
+# RECURSION
+Recursion allows a function to call itself. Fixed steps of code get executed again and again 
+for new values. We also have to set criteria for deciding when the recursive call ends.
+
+# SORTING ALGORITHM 
+Sorting refers to arranging data in a particular format. Sorting algorithm specifies the way 
+to arrange data in a particular order. Most common orders are in numerical or lexicographical order.
+The importance of sorting lies in the fact that data searching can be optimized to a very 
+high level, if data is stored in a sorted manner. Sorting is also used to represent data in 
+more readable formats.
+
+
 
      
