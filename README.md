@@ -210,4 +210,22 @@ Example: Automating the movement of the mouse and clicking on UI elements.
 Automating tasks related to cloud infrastructure and services, using libraries like boto3 for AWS, azure-mgmt for Azure, and google-cloud for GCP.
 Example: Automating the deployment of cloud resources or handling cloud storage.
 
+
+
+
+
+print("Equation: ax^2 + bx + c ")
+a=int(input("Enter a: "))
+b=int(input("Enter b: "))
+c=int(input("Enter c: "))
+d=b**2-4*a*c
+d1=d**0.5
+if(d<0):
+    print("The roots are imaginary. ")
+else:
+    r1=(-b+d1)/2*a
+    r2=(-b-d1)/2*a
+    print("The first root: ",round(r1,2))
+    print("The second root: ",round(r2,2))
+
      
