@@ -213,19 +213,44 @@ Example: Automating the deployment of cloud resources or handling cloud storage.
 
 
 
+![Screenshot (1)](https://github.com/user-attachments/assets/045f4855-53de-493f-8295-ea2ed2c9da99)
 
-print("Equation: ax^2 + bx + c ")
-a=int(input("Enter a: "))
-b=int(input("Enter b: "))
-c=int(input("Enter c: "))
-d=b**2-4*a*c
-d1=d**0.5
-if(d<0):
-    print("The roots are imaginary. ")
-else:
-    r1=(-b+d1)/2*a
-    r2=(-b-d1)/2*a
-    print("The first root: ",round(r1,2))
-    print("The second root: ",round(r2,2))
 
-     
+
+     ![Screenshot (2)](https://github.com/user-attachments/assets/5adf9d7c-b4f8-43ab-9666-8d2ffdddf754)
+
+![Screenshot (4)](https://github.com/user-attachments/assets/f885537d-38d2-4ccf-8f89-f7cd6a8a69bc)
+
+
+
+
+
+![Screenshot (6)](https://github.com/user-attachments/assets/d410cefb-f37d-4009-b5cc-29f93d7f268a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
