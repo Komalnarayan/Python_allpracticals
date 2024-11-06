@@ -215,11 +215,25 @@ Example: Automating the deployment of cloud resources or handling cloud storage.
 
 ![Screenshot (1)](https://github.com/user-attachments/assets/045f4855-53de-493f-8295-ea2ed2c9da99)
 
+![Screenshot (2)](https://github.com/user-attachments/assets/4f12106b-7d02-49c5-9151-177919c02d7f)
 
 
-     ![Screenshot (2)](https://github.com/user-attachments/assets/5adf9d7c-b4f8-43ab-9666-8d2ffdddf754)
+    
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/f885537d-38d2-4ccf-8f89-f7cd6a8a69bc)
+
+
+
+![Screenshot (10)](https://github.com/user-attachments/assets/c3d2b20e-d49e-49d4-b39a-ee3afb6015ce)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -230,10 +244,13 @@ Example: Automating the deployment of cloud resources or handling cloud storage.
 
 
 
+![Screenshot (7)](https://github.com/user-attachments/assets/9b86c73f-ebba-4c0a-a1ff-08ee764e88f3)
 
 
+![Screenshot (8)](https://github.com/user-attachments/assets/7449f850-2d5d-48e9-bc5e-53676338b982)
 
 
+![Screenshot (9)](https://github.com/user-attachments/assets/7bbed36f-efe1-4830-8190-cde974894aa2)
 
 
 
