@@ -1,5 +1,5 @@
-##PYTHON ALL PRACTICALS
 
+**PYTHON ALL PRACTICALS**
 
 
 ![Screenshot (1)](https://github.com/user-attachments/assets/045f4855-53de-493f-8295-ea2ed2c9da99)
