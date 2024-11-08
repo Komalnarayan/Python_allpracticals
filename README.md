@@ -98,9 +98,10 @@ b. list comprehension
 
 9. WAP to read a file and
     
-a. Print the total number of characters, words and lines in the file.
 
-![Screenshot (18)](https://github.com/user-attachments/assets/96ea106d-6e66-4ba0-903c-2a994b80e9c3)
+a. Print the total number of characters, words and lines in the file.
+![Screenshot (28)](https://github.com/user-attachments/assets/3c671184-8975-437f-9265-bd85f17d56bd)
+
 
 b. Calculate the frequency of each character in the file. Use a variable of dictionary 
 type to maintain the count.
