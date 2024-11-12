@@ -95,6 +95,7 @@ string then it should return -1.
 
 a. 'for' loop
 
+![Screenshot (32)](https://github.com/user-attachments/assets/065d0624-4200-4809-a435-71ea125dfbda)
 
 
 b. list comprehension
@@ -122,6 +123,32 @@ c. Print the words in reverse order.
 
 
 
+![Screenshot (33)](https://github.com/user-attachments/assets/4d7c13bd-dfca-42f6-aec4-2c26604e7bcb)
+
+
+![Screenshot (34)](https://github.com/user-attachments/assets/fb426d7b-bd1f-44ec-895e-85db6e3ed006)
+
+
+![Screenshot (35)](https://github.com/user-attachments/assets/58f2c509-0900-41a8-8c1e-355dbbfc87b5)
+
+
+
+![Screenshot (36)](https://github.com/user-attachments/assets/ab5ac6a0-daa3-4623-8821-42bc39f9c925)
+![Screenshot (37)](https://github.com/user-attachments/assets/6c454f1c-53bd-4bc6-977c-057e45c88b36)
+
+![Screenshot (38)](https://github.com/user-attachments/assets/c3d74c26-5d28-4ef8-94a5-c112b40e2eb7)
+![Screenshot (39)](https://github.com/user-attachments/assets/ff85a18b-6aa9-4ead-908f-aed99cae2f75)
+
+![Screenshot (40)](https://github.com/user-attachments/assets/2d36d32c-362b-4ff8-a0b7-cc27a8de0791)
+
+
+![Screenshot (41)](https://github.com/user-attachments/assets/5b7aecae-07b3-4d91-bbc2-47807df533e0)
+
+
+![Screenshot (42)](https://github.com/user-attachments/assets/572704d8-7615-4c89-8de7-a51f9d8904b7)
+
+
+![Screenshot (43)](https://github.com/user-attachments/assets/5e9a2bdc-b90a-4ed0-8ef3-8163c186f108)
 
 
 
