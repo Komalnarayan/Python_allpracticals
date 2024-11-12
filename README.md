@@ -151,6 +151,7 @@ c. Print the words in reverse order.
 ![Screenshot (43)](https://github.com/user-attachments/assets/5e9a2bdc-b90a-4ed0-8ef3-8163c186f108)
 
 
+![Screenshot (45)](https://github.com/user-attachments/assets/3966f441-93a5-4eb4-a8a8-85695ad3d3ff)
 
 
 
