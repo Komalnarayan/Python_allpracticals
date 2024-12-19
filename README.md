@@ -4,7 +4,8 @@
 
 **PRACTICAL-1. WAP to find the roots of a quadratic equation.**
 
-![Screenshot (1)](https://github.com/user-attachments/assets/045f4855-53de-493f-8295-ea2ed2c9da99)
+
+![1](https://github.com/user-attachments/assets/8ee6870e-5af2-406e-aecf-898cf468e3ae)
 
 
 
@@ -12,19 +13,21 @@
 
 **a.)Check if ’n’ is prime**
 
-![Screenshot (2)](https://github.com/user-attachments/assets/4f12106b-7d02-49c5-9151-177919c02d7f)
+![2](https://github.com/user-attachments/assets/ec033487-3c7c-48c1-9839-84b637b7cb98)
 
 
     
 **b.)Generate all prime numbers till ‘n’**
 
-![Screenshot (4)](https://github.com/user-attachments/assets/f885537d-38d2-4ccf-8f89-f7cd6a8a69bc)
+![3](https://github.com/user-attachments/assets/63dc98ab-9691-4ce7-9676-0f0e08dc8719)
+
 
 
 
 **c.) Generate first ‘n’ prime numbers**
 
-![Screenshot (6)](https://github.com/user-attachments/assets/d410cefb-f37d-4009-b5cc-29f93d7f268a)
+
+![4](https://github.com/user-attachments/assets/0f8431e4-d7ec-4055-8bef-c89c298168f5)
 
 
 
@@ -34,7 +37,8 @@
 **PRACTICAL-3. WAP to create a pyramid of the character ‘*’ and a reverse pyramid.**
 
 
-![Screenshot (7)](https://github.com/user-attachments/assets/9b86c73f-ebba-4c0a-a1ff-08ee764e88f3)
+
+![5](https://github.com/user-attachments/assets/da3a8868-abbb-4b65-a110-d55733e17d68)
 
 
 
@@ -43,13 +47,14 @@
 a.) print whether the character is a letter or numeric digit or a special character**
 
 
-![Screenshot (8)](https://github.com/user-attachments/assets/7449f850-2d5d-48e9-bc5e-53676338b982)
+![6](https://github.com/user-attachments/assets/1128fbdf-1193-4a22-88c9-4309dbf00df1)
+
 
 
 
 **b.) if the character is a letter, print whether the letter is uppercase or lowercase**
 
-![Screenshot (9)](https://github.com/user-attachments/assets/7bbed36f-efe1-4830-8190-cde974894aa2)
+![7](https://github.com/user-attachments/assets/f8bc5908-36dc-4944-8a2d-f56088823236)
 
 
 
