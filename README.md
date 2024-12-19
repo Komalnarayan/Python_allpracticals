@@ -6,8 +6,15 @@
 PRACTICAL-1. WAP to find the roots of a quadratic equation.
 
 PRACTICAL-2. WAP to accept a number ‘n’
+
+
+
 a.)Check if ’n’ is prime
+
+
 b.)Generate all prime numbers till ‘n’
+
+
 c.) Generate first ‘n’ prime numbers
 
 PRACTICAL-3. WAP to create a pyramid of the character ‘*’ and a reverse pyramid.
